@@ -1,0 +1,1 @@
+web: gunicorn twittercloneoshin.wsgi --log-file -
